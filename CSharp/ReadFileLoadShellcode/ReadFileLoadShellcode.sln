@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileLoadShellcode", "ReadFileLoadShellcode\ReadFileLoadShellcode.csproj", "{3F63B340-555C-40A1-BA20-B408B3C1379A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F63B340-555C-40A1-BA20-B408B3C1379A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F63B340-555C-40A1-BA20-B408B3C1379A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F63B340-555C-40A1-BA20-B408B3C1379A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F63B340-555C-40A1-BA20-B408B3C1379A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC18A9B0-9851-41B0-950D-F16144F6F143}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\SYSTEM ERROR\source\repos\ReadFileLoadShellcode\ReadFileLoadShellcode\bin\Release\ReadFileLoadShellcode.exe.config
+C:\Users\SYSTEM ERROR\source\repos\ReadFileLoadShellcode\ReadFileLoadShellcode\bin\Release\ReadFileLoadShellcode.exe
+C:\Users\SYSTEM ERROR\source\repos\ReadFileLoadShellcode\ReadFileLoadShellcode\obj\Release\ReadFileLoadShellcode.csproj.AssemblyReference.cache
+C:\Users\SYSTEM ERROR\source\repos\ReadFileLoadShellcode\ReadFileLoadShellcode\obj\Release\ReadFileLoadShellcode.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\ReadFileLoadShellcode\ReadFileLoadShellcode\obj\Release\ReadFileLoadShellcode.pdb
+C:\Users\SYSTEM ERROR\source\repos\ReadFileLoadShellcode\ReadFileLoadShellcode\bin\Release\ReadFileLoadShellcode.pdb
+C:\Users\SYSTEM ERROR\source\repos\ReadFileLoadShellcode\ReadFileLoadShellcode\obj\Release\ReadFileLoadShellcode.exe

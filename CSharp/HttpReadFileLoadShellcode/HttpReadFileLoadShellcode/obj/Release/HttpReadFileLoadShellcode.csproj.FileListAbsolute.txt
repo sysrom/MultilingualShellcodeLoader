@@ -1,0 +1,6 @@
+C:\Users\SYSTEM ERROR\Desktop\MulitShellCodeLoader\CSharp\HttpReadFileLoadShellcode\HttpReadFileLoadShellcode\bin\Release\HttpReadFileLoadShellcode.exe.config
+C:\Users\SYSTEM ERROR\Desktop\MulitShellCodeLoader\CSharp\HttpReadFileLoadShellcode\HttpReadFileLoadShellcode\bin\Release\HttpReadFileLoadShellcode.exe
+C:\Users\SYSTEM ERROR\Desktop\MulitShellCodeLoader\CSharp\HttpReadFileLoadShellcode\HttpReadFileLoadShellcode\bin\Release\HttpReadFileLoadShellcode.pdb
+C:\Users\SYSTEM ERROR\Desktop\MulitShellCodeLoader\CSharp\HttpReadFileLoadShellcode\HttpReadFileLoadShellcode\obj\Release\HttpReadFileLoadShellcode.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM ERROR\Desktop\MulitShellCodeLoader\CSharp\HttpReadFileLoadShellcode\HttpReadFileLoadShellcode\obj\Release\HttpReadFileLoadShellcode.exe
+C:\Users\SYSTEM ERROR\Desktop\MulitShellCodeLoader\CSharp\HttpReadFileLoadShellcode\HttpReadFileLoadShellcode\obj\Release\HttpReadFileLoadShellcode.pdb
